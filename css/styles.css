@@ -126,6 +126,7 @@ ul li {
   list-style: none; }
 
 .section-padding {
+  
   padding: 120px 0; }
 
 .tooltip {
@@ -359,11 +360,11 @@ Hero
     color: #fff;
     margin-bottom: 40px; }
   .hero p.intro {
-    color: #fff;
+    color: rgb(209, 209, 209);
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 200;
     margin-bottom: 80px;
-    font-family:Courier, fantasy; 
+    font-family:Tahoma, fantasy; 
    }
   .hero .hero-content {
     padding-top: 26%; }
@@ -465,7 +466,7 @@ Features-stack
     margin: 0 0 20px 0; }
   .features span.icon {
     font-size: 35px;
-    color: #FF5274;
+    color: #6c52ff;
     font-weight: bold; }
   .features .feature-icon {
     display: inline-block;
